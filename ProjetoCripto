@@ -1,47 +1,117 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T02:04:00.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="bu_56dYIMPnphGOV1NMf" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T02:23:53.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="axvv4GwnAGBONybMQk5V" version="16.4.7" type="github">
   <diagram id="h0V-V5eP50UQxaytOg9c" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HAplLGNurTw2VgAYhtxG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="HAplLGNurTw2VgAYhtxG-35" target="HAplLGNurTw2VgAYhtxG-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="HAplLGNurTw2VgAYhtxG-35" target="HAplLGNurTw2VgAYhtxG-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="366" />
+              <mxPoint x="890" y="366" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="580" y="300" width="230" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="HAplLGNurTw2VgAYhtxG-4" value="Previatto" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="350" width="30" height="60" as="geometry" />
+          <mxGeometry x="-330" y="370" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HAplLGNurTw2VgAYhtxG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="HAplLGNurTw2VgAYhtxG-5" target="HAplLGNurTw2VgAYhtxG-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HAplLGNurTw2VgAYhtxG-5" value="Site" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="220" y="330" width="60" height="90" as="geometry" />
+          <mxGeometry x="-270" y="350" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HAplLGNurTw2VgAYhtxG-7" value="crypto-indexes" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
-          <mxGeometry x="330" y="325" width="80" height="100" as="geometry" />
+          <mxGeometry x="-160" y="345" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HAplLGNurTw2VgAYhtxG-9" value="Arquivo HTML" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="367" width="60" height="30" as="geometry" />
+          <mxGeometry x="-80" y="387" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HAplLGNurTw2VgAYhtxG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="HAplLGNurTw2VgAYhtxG-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="361" as="targetPoint" />
+            <mxPoint x="-70" y="381" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HAplLGNurTw2VgAYhtxG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="HAplLGNurTw2VgAYhtxG-10" target="HAplLGNurTw2VgAYhtxG-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="230" />
+              <mxPoint x="50" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HAplLGNurTw2VgAYhtxG-10" value="cryptoindex-updateportfolio-prd" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="325" width="69" height="72" as="geometry" />
+          <mxGeometry x="90" y="345" width="69" height="72" as="geometry" />
         </mxCell>
         <mxCell id="HAplLGNurTw2VgAYhtxG-12" value="cryptoindex" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
-          <mxGeometry x="385" y="170" width="80" height="110" as="geometry" />
+          <mxGeometry x="-105" y="190" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HAplLGNurTw2VgAYhtxG-15" value="arquivo com a valor total do portfólio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="210" width="220" height="30" as="geometry" />
+          <mxGeometry x="50" y="230" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HAplLGNurTw2VgAYhtxG-16" value="arquivo com o valor de cada ativo do portfólio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="240" width="220" height="30" as="geometry" />
+          <mxGeometry x="50" y="260" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-17" value="Previatto" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="365" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-19" value="Site" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="485" y="345" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="HAplLGNurTw2VgAYhtxG-24" target="HAplLGNurTw2VgAYhtxG-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-24" value="database-recorder" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1039" y="330" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-27" value="tabela com o valor de cada ativo do portfólio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="819" y="290.5" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-29" value="Original" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="70" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-30" value="Remodelado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="470" y="70" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-31" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_beanstalk;fillColor=#F58534;gradientColor=none;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="550" y="252.5" width="60" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-32" value="&lt;font style=&quot;font-size: 14px&quot;&gt;EC2&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="620" y="273" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;endArrow=classic;endFill=1;" edge="1" parent="1" source="HAplLGNurTw2VgAYhtxG-32" target="HAplLGNurTw2VgAYhtxG-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-36" value="FLASK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="357" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-128.png;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="712" y="339.5" width="53" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-39" value="Banco de dados" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.rds;" vertex="1" parent="1">
+          <mxGeometry x="890" y="327" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-42" value="coin-info" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="201" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=14;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="HAplLGNurTw2VgAYhtxG-48" target="HAplLGNurTw2VgAYhtxG-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HAplLGNurTw2VgAYhtxG-48" target="HAplLGNurTw2VgAYhtxG-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-48" value="main" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="201" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-52" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#FF4F8B;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sqs;" vertex="1" parent="1">
+          <mxGeometry x="1057.5" y="252.5" width="32" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
