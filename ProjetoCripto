@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T01:50:08.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="JC98AIMIdcNX8F8kgydr" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T02:04:00.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="bu_56dYIMPnphGOV1NMf" version="16.4.7" type="github">
   <diagram id="h0V-V5eP50UQxaytOg9c" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HAplLGNurTw2VgAYhtxG-4" value="Previatto" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="HAplLGNurTw2VgAYhtxG-5" target="HAplLGNurTw2VgAYhtxG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-5" value="Site" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="220" y="330" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-7" value="crypto-indexes" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="330" y="325" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-9" value="Arquivo HTML" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="367" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="HAplLGNurTw2VgAYhtxG-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="361" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="HAplLGNurTw2VgAYhtxG-10" target="HAplLGNurTw2VgAYhtxG-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-10" value="cryptoindex-updateportfolio-prd" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="325" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-12" value="cryptoindex" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="385" y="170" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-15" value="arquivo com a valor total do portfólio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HAplLGNurTw2VgAYhtxG-16" value="arquivo com o valor de cada ativo do portfólio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="240" width="220" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
